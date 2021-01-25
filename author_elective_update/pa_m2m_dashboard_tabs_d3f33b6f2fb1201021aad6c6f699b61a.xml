@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="My API Dashboard">80d2bb2f2fb1201021aad6c6f699b6ec</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 17:55:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3f33b6f2fb1201021aad6c6f699b61a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80d2bb2f2fb1201021aad6c6f699b6ec</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d3f33b6f2fb1201021aad6c6f699b61a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 17:55:23</sys_updated_on>
+        <tab display_value="My API Dashboard - New Tab 2">d3f33b6f2fb1201021aad6c6f699b618</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>34d319eadbbd805491232f17d496197d</instance_id>
+        <instance_name>dev96326</instance_name>
+        <name>pa_m2m_dashboard_tabs_d3f33b6f2fb1201021aad6c6f699b61a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="My API Dashboard">80d2bb2f2fb1201021aad6c6f699b6ec</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-25 17:55:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d3f33b6f2fb1201021aad6c6f699b61a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>80d2bb2f2fb1201021aad6c6f699b6ec</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_d3f33b6f2fb1201021aad6c6f699b61a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-25 17:55:23</sys_updated_on><tab display_value="My API Dashboard - New Tab 2">d3f33b6f2fb1201021aad6c6f699b618</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1605852545</payload_hash>
+        <record_name>80d2bb2f2fb1201021aad6c6f699b6ec</record_name>
+        <reverted_from/>
+        <source>db6a943e2f3d201021aad6c6f699b6a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 17:55:23</sys_created_on>
+        <sys_id>5ff33b6f2fb1201021aad6c6f699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1773aaf9e8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 17:55:23</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>97f33b6f91b12010f44946aa4eb22b1b</update_guid>
+        <update_guid_history>97f33b6f91b12010f44946aa4eb22b1b:-1605852545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My API Dashboard">fd143feb2fb1201021aad6c6f699b63b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 17:55:50</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>4159b0595f4641f1aa28702e6ddc9fe9</sys_id>
+        <sys_metadata>d3f33b6f2fb1201021aad6c6f699b61a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80d2bb2f2fb1201021aad6c6f699b6ec</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="My API Dashboard">80d2bb2f2fb1201021aad6c6f699b6ec</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_d3f33b6f2fb1201021aad6c6f699b61a</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_d3f33b6f2fb1201021aad6c6f699b61a">5ff33b6f2fb1201021aad6c6f699b61b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 17:55:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
